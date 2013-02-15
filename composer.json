@@ -12,6 +12,12 @@
             "email": "me@paulocarvalhodesign.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/paulocarvalhodesign/gapi-php"
+        }
+    ],
     "require": {
         "php": ">=5.3.0"
     },
