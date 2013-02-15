@@ -1,15 +1,15 @@
 {
-    "name": "dandydev/gapi-php",
+    "name": "paulocarvalhodesign/gapi-php",
     "type": "library",
     "description": "Gapi-php is a new version of the Gapi-php class, for accessing Google Analytics accounts.",
     "keywords": ["google analytics", "2.4"],
-    "homepage": "http://dandydev.net",
+    "homepage": "http://paulocarvalhodesign.com",
     "version": "1.4",
     "license": "GPL",
     "authors": [
         {
-            "name": "Daan Debie",
-            "email": "debie.daan@gmail.com"
+            "name": "Paulo Carvalho",
+            "email": "me@paulocarvalhodesign.com"
         }
     ],
     "require": {
